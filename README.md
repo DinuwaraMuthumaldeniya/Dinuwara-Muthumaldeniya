@@ -51,32 +51,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DinuwaraMuthumaldeniya&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinuwaraMuthumaldeniya&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=DinuwaraMuthumaldeniya&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="left">
